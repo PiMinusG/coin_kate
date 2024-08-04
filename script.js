@@ -17,7 +17,7 @@ coinImage.src = 'kyat.png';
 const boomCoinImage = new Image();
 boomCoinImage.src = 'boom.png';
 const bonusCoinImage = new Image();
-bonusCoinImage.src = 'bonus_coin.png';
+bonusCoinImage.src = 'Untitled3_20221121010236.png';
 
 
 let coinCount = MAX_COINS;
